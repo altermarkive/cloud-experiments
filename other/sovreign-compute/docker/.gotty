@@ -3,5 +3,6 @@
 
 preferences {
     font_family = "'JetBrains Mono', Courier, monospace"
-    user_css = "https://fonts.googleapis.com/css2?family=JetBrains+Mono"
+    font_size = 15
+    user_css = "https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap"
 }
